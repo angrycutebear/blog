@@ -15,8 +15,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: 곰탱이
+  tagline: 코딩 못하는 바보 학생 개발자
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -24,9 +24,8 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+    twitter: angrycutebear
+    github:  angrycutebear
     rss: rss
  
 
