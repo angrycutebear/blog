@@ -19,8 +19,8 @@ texture:
   tagline: 코딩 못하는 바보 학생 개발자
   date_format: "%b %-d, %Y"
   style: black
-  showNav: false
-  showPicker: true
+  showNav: ture
+  showPicker: false
 
   # generate social links in footer
   social_links:
